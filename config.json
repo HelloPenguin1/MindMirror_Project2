@@ -1,0 +1,8 @@
+{
+    "image_size": [224, 224],
+    "max_length": 35,
+    "model_paths": {
+      "image": "models/cnn1.h5",
+      "text": "models/bigru_model3.h5"
+    }
+  }
