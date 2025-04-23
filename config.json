@@ -1,8 +1,8 @@
 {
-    "image_size": [224, 224],
+    "image_size": [192, 192],
     "max_length": 35,
     "model_paths": {
-      "image": "models/cnn1.h5",
-      "text": "models/bigru_model3.h5"
+      "image": "models/resnet2.h5",
+      "text": "models/bigru128.h5"
     }
   }
